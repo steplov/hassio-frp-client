@@ -77,7 +77,7 @@ log_file = /share/frp/frpc.log
 token = sometoken
 
 # set admin address for control frpc's action by http api such as reload
-admin_addr = 194.146.38.134
+admin_addr = 0.0.0.0
 admin_port = 7500
 admin_user = admin
 admin_pwd = admin
